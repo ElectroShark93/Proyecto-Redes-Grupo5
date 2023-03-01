@@ -1,6 +1,6 @@
-*Proyecto De redes
+Proyecto De redes
 
-**Grupo N°:5
+Grupo N°:5
 
 Integrantes:
 - Sebastian Fiallos
